@@ -2,7 +2,7 @@
  * Displays a message while the mission is loading.
  *
  * Note that a mission that takes very little time to load
- * will only display the message for a short time.
+ * will only display the message for a short time .
  *
  * Care should be taken to see whether your
  * message is readable in that timeframe.
